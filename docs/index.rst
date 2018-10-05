@@ -1,7 +1,5 @@
 
 .. include:: ../README.rst
-.. _Read the docs: http://readthedocs.org/
-
 
 .. toctree::
    :caption: Start
