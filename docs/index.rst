@@ -6,4 +6,4 @@ About lexiot
    :maxdepth: 2
    :hidden:
 
-   intro <intro>
+   Getting Started <getting_started>
