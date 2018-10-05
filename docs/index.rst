@@ -1,6 +1,8 @@
-============
+
 Welcome to LEXIOT documents
-============
+===========================
+
+.. _Read the docs: http://readthedocs.org/
 
 
 .. toctree::
