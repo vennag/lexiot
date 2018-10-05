@@ -4,5 +4,5 @@
    :alt: lexiot
    :align: centre
 
-Welcome to LEXIOT documents
+Welcome to LEXIOT docs
 ===========================
