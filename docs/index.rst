@@ -1,9 +1,10 @@
 ============
 Welcome to LEXIOT documents
 ============
-.. sidebar:: Sidebar Title
+
 
 .. toctree::
+   :caption: Start Up
    :maxdepth: 2
    :hidden:
 
