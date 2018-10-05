@@ -1,3 +1,3 @@
-#getting_started
+#Intro
 
 Getting Started
