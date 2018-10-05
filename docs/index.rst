@@ -1,6 +1,7 @@
 ============
 Welcome to LEXIOT documents
 ============
+.. sidebar:: Sidebar Title
 
 .. toctree::
    :maxdepth: 2
