@@ -16,8 +16,8 @@ source_parsers = {
 }
 source_suffix = ['.rst', '.md']
 master_doc = 'index'
-project = 'CHANGE-THIS'
-copyright = '2016, CHANGE-THIS'
+project = 'LEXIOT-DOCS'
+copyright = '2016, LEXIOT-DOCS'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
