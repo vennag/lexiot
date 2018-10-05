@@ -1,7 +1,5 @@
 
-Welcome to LEXIOT documents
-===========================
-
+.. include:: ../README.rst
 .. _Read the docs: http://readthedocs.org/
 
 
