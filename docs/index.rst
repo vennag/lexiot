@@ -1,5 +1,5 @@
 ============
-About lexiot
+Welcome to LEXIOT documents
 ============
 
 .. toctree::
@@ -7,3 +7,4 @@ About lexiot
    :hidden:
 
    Getting Started <getting_started>
+   Login <login>
