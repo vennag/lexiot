@@ -1,3 +1,5 @@
 About lexiot:
 
-.. bottom of content
+.. toctree::
+   :maxdepth: 2
+   getting_started

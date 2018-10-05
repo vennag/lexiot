@@ -11,8 +11,10 @@ sys.path.append(os.path.abspath(os.pardir))
 __version__ = '1.0'
 
 # -- General configuration -----------------------------------------------------
-
-source_suffix = '.rst'
+source_parsers = {
+   '.md': 'recommonmark.parser.CommonMarkParser',
+}
+source_suffix = ['.rst', '.md']
 master_doc = 'index'
 project = 'CHANGE-THIS'
 copyright = '2016, CHANGE-THIS'
