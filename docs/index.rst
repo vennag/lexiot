@@ -10,7 +10,7 @@ Welcome to LEXIOT documents
    :maxdepth: 2
    :hidden:
 
-   Getting Started <getting_started>
+   Registration <registration>
    Login <login>
 
 .. toctree::
@@ -18,5 +18,5 @@ Welcome to LEXIOT documents
    :maxdepth: 2
    :hidden:
 
-   Getting Started <getting_started>
+   Registration <registration>
    Login <login>

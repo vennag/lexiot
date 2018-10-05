@@ -1,6 +1,6 @@
 ===============
-Getting Started
+Registration
 ===============
 .. DANGER::
-   Beware killer rabbits!
+   Registration!
 
