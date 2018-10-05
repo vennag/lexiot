@@ -1,6 +1,6 @@
 
 .. image:: /docs/static/images/logo.png
-   :height: 100px
+   :width: 200
    :alt: lexiot
    :align: centre
 
