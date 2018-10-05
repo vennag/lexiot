@@ -4,6 +4,6 @@ About lexiot
 
 .. toctree::
    :maxdepth: 2
-   :hidden
+   :includehidden:
 
    intro <intro>
