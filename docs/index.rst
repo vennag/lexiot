@@ -1,7 +1,7 @@
 
 .. include:: ../README.rst
 
-.. image:: /docs/static/images/logo.png
+.. image:: static/images/logo.png
    :width: 200
    :alt: lexiot
    :align: centre
