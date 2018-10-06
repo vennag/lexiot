@@ -1,7 +1,6 @@
 
 .. include:: ../README.rst
 
-
 .. toctree::
    :caption: Start
    :maxdepth: 2
