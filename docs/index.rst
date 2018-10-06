@@ -1,6 +1,6 @@
 .. image:: static/images/logo.png
    :align: center
-   :width: 200
+   :width: 150
 
 .. include:: ../README.rst
 
