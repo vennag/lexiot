@@ -1,9 +1,6 @@
 
 .. include:: ../README.rst
 
-.. image:: static/images/logo.png
-   :align: center
-   :width: 200
 
 .. toctree::
    :caption: Start
